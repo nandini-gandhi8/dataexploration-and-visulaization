@@ -1,4 +1,4 @@
-# dataexploration-and-visulaization
+# dataexploration-and-visualization
 this study is regarding data exploration and its visualizations
 # heading 1
 ## beginning of sentence<br>
